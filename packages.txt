@@ -1,0 +1,14 @@
+kitty
+wofi
+waybar
+swaylock-effects
+zsh
+starship
+ttf-jetbrains-mono-nerd
+hyprland
+xdg-desktop-portal-hyprland
+xdg-desktop-portal
+unzip
+bat
+neofetch
+networkmanager 
